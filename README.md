@@ -107,11 +107,8 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Visual studio latest version with C# and .Net Framework 4.6 or later.
+
 
 ### Installation
 
