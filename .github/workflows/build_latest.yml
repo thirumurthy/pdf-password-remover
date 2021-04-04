@@ -36,4 +36,4 @@ jobs:
       uses: actions/upload-artifact@v1.0.0
       with:
         name: PDF_Password_Remover_latest
-        path: PDF_Password_Remover\bin\Release\
+        path: bin\Release\
